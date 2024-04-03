@@ -1,5 +1,5 @@
-# Dajachi
-👋 ¡Hola y bienvenido a mi perfil de GitHub! 📒
+# Hola, mi nombre es David 👋
+¡Bienvenido a mi perfil de GitHub!
 
 🙎‍♂️ En mi rincón de GitHub, encontrarás variedad de proyectos, todos ellos construidos para ayudar a la gente 👨‍🔧. Desde programas en Python que hacen que la vida sea un poco más fácil, scripts en Bash que automatizan tareas y muchas cosas más 📚.
 
